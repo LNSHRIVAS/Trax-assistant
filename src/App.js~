@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import alanBtn from '@alan-ai/alan-sdk-web';
-const alanKey = 'fc57e8c9d75b2af88c8f4b7152bdc3c92e956eca572e1d8b807a3e2338fdd0dc/stage'
+const alanKey = 'fc57e8c9d75b2af88c8f4b7152bdc3c92e956eca572e1d8b807a3e2338fdd0dc/'
 const App = () => {
 
     useEffect(() => {
